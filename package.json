@@ -1,0 +1,31 @@
+{
+  "name": "wisp-css",
+  "version": "0.1.0",
+  "description": "A modular and spirited CSS framework with sensible defaults and zero to little configuration.",
+  "keywords": [
+    "css",
+    "framework",
+    "modular",
+    "cascade",
+    "css-layers",
+    "semantic",
+    "objects",
+    "components",
+    "utilities",
+    "responsive",
+    "no-build",
+    "lightweight"
+  ],
+  "license": "MIT",
+  "author": "Eric Harms",
+  "scripts": {
+    "build": "npx postcss src/imports.css -o dist/bundle.css"
+  },
+  "devDependencies": {
+    "cssnano": "^8.0.1",
+    "postcss": "^8.5.15",
+    "postcss-clean": "^1.2.2",
+    "postcss-cli": "^11.0.1",
+    "postcss-import": "^16.1.1"
+  }
+}

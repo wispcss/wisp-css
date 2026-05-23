@@ -1,0 +1,87 @@
+/**
+ * Define the order of the layers in preflight since this is a dependency file.
+ */
+@layer preflight, foundation, objects, behaviors, components, utilities;
+
+@layer preflight {
+   /* =========================================================================
+      preflight
+      ========================================================================= */
+
+   /**
+    * Minimum dependency layer for consistant browser behaviors.
+    */
+
+   /* =========================================================================
+      hacks.box-sizing
+      ========================================================================= */
+
+    /**
+     * Required sizing model for objects and components.
+     */
+    html {
+        box-sizing: border-box;
+    }
+
+    *,
+    *::before,
+    *::after {
+        box-sizing: inherit;
+    }
+
+ /* =========================================================================
+    elements.states
+    ========================================================================= */
+
+    /**
+     * These are too important to belong in foundation.css, since that file is
+     * optional.
+     */
+
+   /*  
+      :disabled
+      ========================================================================= */
+
+    :disabled {
+        cursor: not-allowed;
+    }
+
+   /*  
+      focus-visible
+      ========================================================================= */
+
+    :focus-visible {
+        outline-width: 2px;
+        outline-style: solid;
+        outline-color: var(--wisp-focus-color, #3b82f6);
+        outline-offset: 2px;
+    }
+
+   /* =========================================================================
+      elements.forms
+      ========================================================================= */
+    
+    /**
+     * Ensures form controls inherit typography correctly.
+     */
+    button,
+    input,
+    optgroup,
+    select,
+    textarea {
+        font-family: inherit;
+        font-size: inherit;
+        color: inherit;
+    }
+
+   /* =========================================================================
+      elements.table
+      ========================================================================= */
+    
+    /**
+     * Normalizes table layout behavior for components.
+     */
+    table {
+        border-collapse: collapse;
+    }
+}

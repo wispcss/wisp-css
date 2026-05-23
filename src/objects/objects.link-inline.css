@@ -1,0 +1,35 @@
+/* =========================================================================
+   objects.link-inline
+   ========================================================================= */
+   
+@layer objects {
+    /**
+     * Inline link pattern for navigation and inline text content.
+     *
+     * Example:
+     *
+     * <a class="o-link-inline">
+     * </a> 
+     */
+    .o-link-inline {
+        text-decoration-line: none;
+        color: inherit;
+    }
+    
+    .o-link-inline:hover,
+    .o-link-inline:focus-visible {
+        text-decoration-line: underline;
+    }
+
+    /*
+        Quiet Modifier
+        ==================================================================== */
+
+    /**
+     * Removes line on interaction.
+     */
+    .o-link-inline--quiet:hover,
+    .o-link-inline--quiet:focus-visible {
+        text-decoration-line: none;
+    }
+}

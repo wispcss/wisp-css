@@ -1,0 +1,36 @@
+ /* =========================================================================
+   components.input
+   ========================================================================= */
+
+@layer components {
+    /**
+     * Applies styles to create a input field
+     *
+     * Example:
+     *
+     * <input type="text" class="c-input"> 
+     */
+    .c-input {
+        padding-block: var(--wisp-spacing-sm, .5rem);
+        padding-inline: var(--wisp-spacing-md, 1rem);
+        border-width: 1px;
+        border-style: solid;
+        border-color: var(--wisp-input-border-color,#8c8c8c);
+        border-radius: var(--wisp-input-radius, 4px);
+    }
+      
+    /*
+        Size Modifiers
+        ==================================================================== */
+
+    /**
+     * Sets the width.
+     */
+    .c-input--width-2ch { width: 2ch; }
+    .c-input--width-3ch { width: 3ch; }
+    .c-input--width-4ch { width: 4ch; }
+    .c-input--width-5ch { width: 5ch; }
+    .c-input--width-10ch { width: 10ch; }
+    .c-input--width-20ch { width: 20ch; }
+    .c-input--width-30ch { width: 30ch; }
+}

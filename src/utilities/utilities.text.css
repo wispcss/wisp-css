@@ -1,0 +1,16 @@
+/* =========================================================================
+   utilities.text
+   ========================================================================= */
+
+@layer utilities {
+    /**
+     * Sets the alignment.
+     *
+     * Example:
+     *
+     * <span class="u-text-start"></span>
+     */  
+    .u-text-start  { text-align: start; }
+    .u-text-center { text-align: center; }
+    .u-text-end    { text-align: end; }
+}
