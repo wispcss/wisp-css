@@ -19,7 +19,7 @@
   "license": "MIT",
   "author": "Eric Harms",
   "scripts": {
-    "build": "npx postcss src/imports.css -o dist/bundle.css"
+    "build": "npx postcss src/imports.css -o dist/wisp.min.css"
   },
   "devDependencies": {
     "@csstools/postcss-minify": "^3.0.0",
