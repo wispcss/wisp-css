@@ -30,7 +30,7 @@
        ===================================================================== */
 
     /**
-     * Sets the column-gap between keys and values.
+     * Sets the gap on the inline axis.
      */
     .o-pair--gap-sm { column-gap: var(--wisp-spacing-sm, .5rem); }
     .o-pair--gap-md { column-gap: var(--wisp-spacing-md, 1rem); }

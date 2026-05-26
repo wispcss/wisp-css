@@ -44,7 +44,9 @@
 /*  ========================================================================
     #utilities
     ======================================================================== */
-
+ 
 @import "utilities/utilities.margin.css";
 @import "utilities/utilities.type.css";
+@import "utilities/utilities.color.css";
 @import "utilities/utilities.text.css";
+@import "utilities/utilities.visually-hidden.css";

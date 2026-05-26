@@ -42,7 +42,7 @@
         ==================================================================== */
 
     /**
-     * Applies a gap between items.
+     * Sets the gap between items.
      */
     .o-cluster--gap-sm        { gap: var(--wisp-spacing-sm, .5rem); }
     .o-cluster--gap-md        { gap: var(--wisp-spacing-md, 1rem); }

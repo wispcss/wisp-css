@@ -29,7 +29,7 @@
         ==================================================================== */
 
     /**
-     * Applies inline padding around the link.
+     * Sets the padding on the inline axis.
      */
     .o-link-block--spacing-sm       { padding-inline: var(--wisp-spacing-sm, .5rem); }
     .o-link-block--spacing-md       { padding-inline: var(--wisp-spacing-md, 1rem); }

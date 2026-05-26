@@ -24,7 +24,7 @@
         ==================================================================== */
 
     /**
-     * Applies a column gap between items.
+     * Sets the gap between items.
      */
     .o-stack--gap-sm        { row-gap: var(--wisp-spacing-sm, .5rem); }
     .o-stack--gap-md        { row-gap: var(--wisp-spacing-md, 1rem); }
@@ -35,7 +35,7 @@
         ==================================================================== */
 
     /**
-     * Sets the main-axis of items.
+     * Sets the main-axis alignment of items.
      */
     .o-stack--justify-start     { justify-content: flex-start; }
     .o-stack--justify-center    { justify-content: center; }

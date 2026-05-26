@@ -31,7 +31,7 @@
         ==================================================================== */
 
     /**
-     * Applies block padding.
+     * Applies padding on the block axis.
     */
     .o-container--spacing-xs { padding-block: var(--wisp-spacing-xs, .25rem); }
     .o-container--spacing-sm { padding-block: var(--wisp-spacing-sm, .5rem); }

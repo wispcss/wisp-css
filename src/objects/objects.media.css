@@ -60,7 +60,7 @@
        ===================================================================== */
 
     /**
-     * Sets the gap between the image and content.
+     * Sets the gap on the inline axis.
      */
     .o-media--gap-sm 	{ column-gap: var(--wisp-spacing-sm, .5rem); }
     .o-media--gap-md 	{ column-gap: var(--wisp-spacing-md, 1rem); }
