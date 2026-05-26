@@ -24,6 +24,6 @@
      * Applies a smaller border radius for a label style badge.
      */
     .c-badge--square {
-        border-radius: var(--wisp-badge-radius, 4px);
+        border-radius: var(--wisp-badge-border-radius, 4px);
     }
 }

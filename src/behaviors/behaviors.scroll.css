@@ -15,7 +15,7 @@
     .b-scroll {
         border-width: 1px;
         border-style: solid;
-        border-color: var(--wisp-border-color, #ccc);
+        border-color: var(--wisp-scroll-border-color, #ccc);
         overflow-x: auto;
     }
 

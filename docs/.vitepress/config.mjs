@@ -7,13 +7,16 @@ export default defineConfig({
     outline: [2, 3],
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'Docs', link: '/objects/container' }
+      { text: 'Docs', link: '/getting-started/design-principles' }
     ],
     sidebar: [
       {
         text: "Getting Started",
         items: [
-
+          { text: 'Design Principles', link: '/getting-started/design-principles' },
+          { text: 'Installation',      link: '/getting-started/installation'},
+          { text: 'Customizing',      link: '/getting-started/customizing'},
+          { text: 'Extending',      link: '/getting-started/extending'}          
         ]
       },
       {
@@ -59,12 +62,16 @@ export default defineConfig({
       {
         text: "Utilities",
         items: [
-          
+          { text: 'Colors',          link: '/utilities/utilities.colors' },
+          { text: 'Margin',          link: '/utilities/utilities.margin' },
+          { text: 'Text',            link: '/utilities/utilities.text' },
+          { text: 'Type',            link: '/utilities/utilities.type' },
+          { text: 'Visually Hidden', link: '/utilities/utilities.visually-hidden' }
         ]
       }
     ],
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/vuejs/vitepress' }
+      { icon: 'github', link: 'https://github.com/wispcss/wisp-css' }
     ]
   }
 })

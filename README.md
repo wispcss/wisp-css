@@ -12,7 +12,7 @@ A spirited, modular, and lightweight CSS framework that's barely there.
 
 ## Documentation
 
-Coming Soon!
+For documentation, visit [wispcss.github.io](wispcss.github.io).
 
 ## Community
 

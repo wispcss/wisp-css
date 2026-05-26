@@ -21,7 +21,7 @@
         border-width: 1px;
         border-style: solid;
         border-color: transparent;
-        border-radius: var(--wisp-button-radius, 4px);
+        border-radius: var(--wisp-button-border-radius, 4px);
         text-decoration-line: none;
         font-family: inherit;
         font-size: inherit;
