@@ -6,6 +6,7 @@ A spirited, modular, and lightweight CSS framework that's barely there.
 ![License](https://img.shields.io/github/license/wispcss/wisp-css)
 ![Size](https://img.shields.io/github/size/wispcss/wisp-css/dist/wisp.min.css)
 
+[Design Principles](./docs/getting-started/design-principles.md)
 ------
 
 ## Documentation
