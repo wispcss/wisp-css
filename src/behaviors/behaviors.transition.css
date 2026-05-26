@@ -4,7 +4,11 @@
 
 @layer behaviors {
     /**
-     * Applies a transition with default properties.
+     * Applies a transition to an element. By default it animates opacity, 
+     * transform, and box-shadow. Opacity, transform, and box-shadow are 
+     * grouped together because they are GPU-accelerated and safe to animate 
+     * without triggering layout reflow. Color-related properties are kept 
+     * separate as they can be more expensive to animate.  
      *
      * Example:
      *
@@ -14,6 +18,17 @@
         transition-property: opacity, transform, box-shadow;
         transition-duration: var(--wisp-duration, 200ms); 
         transition-timing-function: ease;
+    }
+
+    /*  
+       Colors Modifier
+       ===================================================================== */
+
+    /**
+     * Switches the transition to color-related properties.
+     */
+    .b-transition--for-colors { 
+        transition-property: background-color, border-color, color; 
     }
 
     /*  
@@ -29,17 +44,6 @@
 
     .b-transition--curve-ease-in-out { 
         transition-timing-function: ease-in-out; 
-    }
-
-    /*  
-       Colors Modifier
-       ===================================================================== */
-
-    /**
-     * Switches the transition to color-related properties.
-     */
-    .b-transition--for-colors { 
-        transition-property: background-color, border-color, color; 
     }
 
     /*  
