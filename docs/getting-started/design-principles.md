@@ -1,4 +1,4 @@
-# Philosophy
+# Design Principles
 
 CSS has always had a clear purpose: describe how a document looks, not what it contains. Somewhere along the way, frameworks lost sight of that. Utility frameworks traded readable markup for granular control, leaving developers maintaining strings of dozens of single purpose classes on every element. Component frameworks went the other direction, shipping fully formed UI that was fast to start with and slow to make your own. Both approaches made the same mistake. They made decisions that belong to the developer.
 
