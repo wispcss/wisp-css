@@ -8,6 +8,9 @@ Applies styles to create an input field.
 <input type="text" class="c-input">
 ```
 
+<iframe height="300" src="/embeds/components/components.input-base.html" width="100%">
+</iframe>
+
 ## Modifiers
 
 ### Width
@@ -25,5 +28,8 @@ Sets the width of the input.
 | `c-input--width-30ch`  | 30 characters. |
 
 ```html
-<input type="text" class="c-input c-input--width-20ch">
+<input type="text" class="c-input c-input--width-30ch">
 ```
+
+<iframe height="300" src="/embeds/components/components.input-width.html" width="100%">
+</iframe>

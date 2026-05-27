@@ -5,23 +5,31 @@
 Applies styles to create a table.
 
 ```html
-<table class="c-table">
+ <table class="c-table">
     <thead>
         <tr>
-            <th></th>
-            <th></th>
-            <th></th>
+            <th>Head 1</th>
+            <th>Head 2</th>
+            <th>Head 3</th>
         </tr>
     </thead>
     <tbody>
         <tr>
-            <td></td>
-            <td></td>
-            <td></td>
+            <td>Data 1</td>
+            <td>Data 2</td>
+            <td>Data 3</td>
+        </tr>
+        <tr>
+            <td>Data 1</td>
+            <td>Data 2</td>
+            <td>Data 3</td>
         </tr>
     </tbody>
 </table>
 ```
+
+<iframe height="300" src="/embeds/components/components.table-base.html" width="100%">
+</iframe>
 
 ## Modifiers
 
@@ -33,10 +41,31 @@ Applies styles to create a table.
 | `c-table--border-rows`    | Sets a border above all rows.   |
 
 ```html
-<table class="c-table c-table--border-rows">
-    ...
+ <table class="c-table c-table--border-cells">
+    <thead>
+        <tr>
+            <th>Head 1</th>
+            <th>Head 2</th>
+            <th>Head 3</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Data 1</td>
+            <td>Data 2</td>
+            <td>Data 3</td>
+        </tr>
+        <tr>
+            <td>Data 1</td>
+            <td>Data 2</td>
+            <td>Data 3</td>
+        </tr>
+    </tbody>
 </table>
 ```
+
+<iframe height="300" src="/embeds/components/components.table-border-cells.html" width="100%">
+</iframe>
 
 ## Notes
 
