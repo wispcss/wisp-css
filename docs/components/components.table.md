@@ -5,31 +5,25 @@
 Applies styles to create a table.
 
 ```html
- <table class="c-table">
+<table class="c-table">
     <thead>
         <tr>
-            <th>Head 1</th>
-            <th>Head 2</th>
-            <th>Head 3</th>
+            <th></th>
+            <th></th>
+            <th></th>
         </tr>
     </thead>
     <tbody>
         <tr>
-            <td>Data 1</td>
-            <td>Data 2</td>
-            <td>Data 3</td>
-        </tr>
-        <tr>
-            <td>Data 1</td>
-            <td>Data 2</td>
-            <td>Data 3</td>
+            <td></td>
+            <td></td>
+            <td></td>
         </tr>
     </tbody>
 </table>
 ```
 
-<iframe height="300" src="/embeds/components/components.table-base.html" width="100%">
-</iframe>
+<a href="https://codepen.io/wispcss/pen/raWYyjP" class="wisp-codepen-link">Demo on CodePen</a>
 
 ## Modifiers
 
@@ -64,8 +58,7 @@ Applies styles to create a table.
 </table>
 ```
 
-<iframe height="300" src="/embeds/components/components.table-border-cells.html" width="100%">
-</iframe>
+<a href="https://codepen.io/wispcss/pen/vEyWxxK" class="wisp-codepen-link">Demo on CodePen</a>
 
 ## Notes
 

@@ -47,7 +47,7 @@
     } 
 
     /*
-        Border Modifier
+        Bordered Modifier
         ==================================================================== */
 
     /**
@@ -60,14 +60,14 @@
     } 
     
     /*
-        Border Modifier
+        Rounded Modifier
         ==================================================================== */
 
     /**
      * Applies a border radius around the card.  
      */
     .c-card--rounded {
-        border-radius: var(--wisp-card-radius, 4px);
+        border-radius: var(--wisp-card-border-radius, 6px);
         overflow: hidden;
     }
 }

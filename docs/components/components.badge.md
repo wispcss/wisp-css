@@ -10,8 +10,7 @@ Displays a small inline label for status, count, or metadata.
 </span>
 ```
 
-<iframe height="300" src="/embeds/components/components.badge-base.html" width="100%">
-</iframe>
+<a href="https://codepen.io/wispcss/pen/QwGOpbO" class="wisp-codepen-link">Demo on CodePen</a>
 
 ## Modifiers
 
@@ -27,5 +26,18 @@ Displays a small inline label for status, count, or metadata.
 </span>
 ```
 
-<iframe height="300" src="/embeds/components/components.badge-square.html" width="100%">
-</iframe>
+<a href="https://codepen.io/wispcss/pen/RNojpra" class="wisp-codepen-link">Demo on CodePen</a>
+
+## Notes
+
+### Colors
+
+You can change the color using a color utility or custom class.
+
+```html
+<span class="c-badge u-color-primary">
+    Badge
+</span>
+```
+
+<a href="https://codepen.io/wispcss/pen/ByQmWKR" class="wisp-codepen-link">Demo on CodePen</a>

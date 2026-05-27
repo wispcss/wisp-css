@@ -77,7 +77,7 @@ When you are ready to make it your own, override any property in your own styles
 | Property                      | Default |
 |-------------------------------|---------|
 | `--wisp-card-border-color`    | #ccc    |
-| `--wisp-card-border-radius`   | 4px     |
+| `--wisp-card-border-radius`   | 6px     |
 
 #### Container
 

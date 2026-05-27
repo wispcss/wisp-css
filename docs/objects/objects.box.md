@@ -9,6 +9,8 @@ Boxes off content from the surrounding elements.
 </div>
 ```
 
+<iframe height="300" src="/embeds/objects/objects.box-base.html" width="100%">
+</iframe>
 ## Modifiers
 
 ### Spacing
