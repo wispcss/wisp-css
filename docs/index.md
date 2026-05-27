@@ -11,7 +11,7 @@ hero:
   tagline: Modular, with sensible defaults and no settings needed.
   actions:
     - theme: brand
-      text: Getting Started
+      text: Docs
       link: /getting-started/design-principles
     - theme: alt
       text: Download
