@@ -12,13 +12,13 @@ A spirited, modular, and lightweight CSS framework that's barely there.
 
 ## Documentation
 
-For documentation, visit [https://wispcss.github.io](wispcss.github.io).
+For documentation, visit [wispcss.github.io](https://wispcss.github.io).
 
 ## Community
 
 For questions, best practices, and feature discussion:
 
-[Wisp CSS Discussions](https://github.com/ericmharms/wisp-css/discussions)
+[Wisp CSS Discussions](https://github.com/wisp-css/discussions)
 
 ## Contributing
 
