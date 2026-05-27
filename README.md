@@ -18,7 +18,7 @@ For documentation, visit [wispcss.github.io](https://wispcss.github.io).
 
 For questions, best practices, and feature discussion:
 
-[Wisp CSS Discussions](https://github.com/wisp-css/discussions)
+[Wisp CSS Discussions](https://github.com/wispcss/wisp-css/discussions)
 
 ## Contributing
 
