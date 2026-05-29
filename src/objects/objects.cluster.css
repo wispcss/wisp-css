@@ -58,10 +58,15 @@
     .o-cluster--align-start   { align-items: flex-start; }
     .o-cluster--align-center  { align-items: center; }
     .o-cluster--align-end     { align-items: flex-end; } 
+      
+    /*
+        Justify Modifiers
+        ==================================================================== */
 
-    @media (min-width: 48rem) {
-        .o-cluster--align-start-md  { align-items: flex-start; }
-        .o-cluster--align-center-md { align-items: center; }
-        .o-cluster--align-end-md    { align-items: flex-end; }
-    }
+    /**
+     * Sets the main-axis alignment of items.
+     */
+    .o-cluster--justify-start     { justify-content: flex-start; }
+    .o-cluster--justify-center    { justify-content: center; }
+    .o-cluster--justify-end       { justify-content: flex-end; }
 }
