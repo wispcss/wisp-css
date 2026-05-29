@@ -11,6 +11,7 @@
      * <input type="text" class="c-input"> 
      */
     .c-input {
+        box-sizing: border-box; /* Fix for browsers that reapply UA styles */
         padding-block: var(--wisp-spacing-sm, .5rem);
         padding-inline: var(--wisp-spacing-md, 1rem);
         border-width: 1px;
