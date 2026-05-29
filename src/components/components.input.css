@@ -17,20 +17,5 @@
         border-style: solid;
         border-color: var(--wisp-input-border-color,#8c8c8c);
         border-radius: var(--wisp-input-border-radius, 4px);
-    }
-      
-    /*
-        Size Modifiers
-        ==================================================================== */
-
-    /**
-     * Sets the width.
-     */
-    .c-input--width-2ch { width: 2ch; }
-    .c-input--width-3ch { width: 3ch; }
-    .c-input--width-4ch { width: 4ch; }
-    .c-input--width-5ch { width: 5ch; }
-    .c-input--width-10ch { width: 10ch; }
-    .c-input--width-20ch { width: 20ch; }
-    .c-input--width-30ch { width: 30ch; }
+    }  
 }
