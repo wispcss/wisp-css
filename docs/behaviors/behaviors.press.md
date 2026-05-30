@@ -10,6 +10,5 @@ Applies a pressable interaction affordance.
 	</p>
 ```
 
-
-<iframe height="300" src="/embeds/components/components.button-press.html" width="100%">
-</iframe>
+<a href="https://codepen.io/wispcss/pen/dPOZvVG" class="wisp-codepen-link">Demo on CodePen</a>
+ 

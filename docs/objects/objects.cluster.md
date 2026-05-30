@@ -11,6 +11,8 @@ Arrange items horizontally with consistent spacing.
 </div>
 ```
 
+<a href="https://codepen.io/wispcss/pen/pvNpvod" class="wisp-codepen-link">Demo on CodePen</a>
+ 
 ## Modifiers
 
 ### Responsive
@@ -44,7 +46,9 @@ Sets the gap between items.
     <div></div>
 </div>
 ```
-
+ 
+<a href="https://codepen.io/wispcss/pen/GgNyggp" class="wisp-codepen-link">Demo on CodePen</a>
+ 
 ### Align
 
 Sets the cross-axis alignment of items.
@@ -54,13 +58,32 @@ Sets the cross-axis alignment of items.
 | `o-cluster--align-start`     | Start.                         |
 | `o-cluster--align-center`    | Center.                        |
 | `o-cluster--align-end`       | End.                           |
-| `o-cluster--align-start-md`  | Start from medium screens up.  |
-| `o-cluster--align-center-md` | Center from medium screens up. |
-| `o-cluster--align-end-md`    | End from medium screens up.    |
-
+ 
 ```html
 <div class="o-cluster o-cluster--align-center">
     <div></div>
     <div></div>
 </div>
 ```
+
+<a href="https://codepen.io/wispcss/pen/yyVpyMj" class="wisp-codepen-link">Demo on CodePen</a>
+ 
+### Justify
+
+Sets the main-axis alignment of items.
+
+| Name                         | Description                    |
+|------------------------------|--------------------------------|
+| `o-cluster--justify-start`   | Start.                         |
+| `o-cluster--justify-center`  | Center.                        |
+| `o-cluster--justify-end`     | End.                           |
+ 
+```html
+<div class="o-cluster o-cluster--align-center">
+    <div></div>
+    <div></div>
+</div>
+```
+
+<a href="https://codepen.io/wispcss/pen/myOpyJJ" class="wisp-codepen-link">Demo on CodePen</a>
+ 

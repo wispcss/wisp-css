@@ -9,3 +9,6 @@ Makes a container horizontally scrollable on small screens.
     <div class="b-scroll__body"></div>
 </div>
 ```
+
+<a href="https://codepen.io/wispcss/pen/myOpdod" class="wisp-codepen-link">Demo on CodePen</a>
+ 

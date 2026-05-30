@@ -9,8 +9,8 @@ Boxes off content from the surrounding elements.
 </div>
 ```
 
-<iframe height="300" src="/embeds/objects/objects.box-base.html" width="100%">
-</iframe>
+<a href="https://codepen.io/wispcss/pen/VYmywJJ" class="wisp-codepen-link">Demo on CodePen</a>
+ 
 ## Modifiers
 
 ### Spacing
@@ -27,3 +27,5 @@ Applies padding on the block and inline axis.
 <div class="o-box o-box--spacing-lg">
 </div>
 ```
+
+<a href="https://codepen.io/wispcss/pen/myOpyby" class="wisp-codepen-link">Demo on CodePen</a>
