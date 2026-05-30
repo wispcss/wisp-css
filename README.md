@@ -2,13 +2,6 @@
 
 A spirited framework that won't haunt your life.
 
-**Features**
-
-- Modular. Use only what you need.
-- Extendable with cascade layers.
-- No preprocessor required.
-- No settings file. Sensible defaults via CSS variables.
-
 ![Version](https://img.shields.io/badge/version-1.0.0-blue)
 ![License](https://img.shields.io/github/license/wispcss/wisp-css)
 ![Size](https://img.shields.io/github/size/wispcode/wisp-css/dist/wisp.min.css)
@@ -16,6 +9,13 @@ A spirited framework that won't haunt your life.
 [Design Principles](https://wispcode.github.io/getting-started/design-principles.html)
 
 ------
+
+## Features
+
+- Modular. Use only what you need.
+- Extendable with cascade layers.
+- No preprocessor required.
+- No settings file. Sensible defaults via CSS variables.
 
 ## Documentation
 
