@@ -9,6 +9,8 @@ Constrains content width and centers it.
 </div>
 ```
 
+<a href="https://codepen.io/wispcss/pen/OPbzPxp" class="wisp-codepen-link">Demo on CodePen</a>
+
 ## Modifiers
 
 ### Spacing
@@ -27,3 +29,5 @@ Applies padding on the block axis.
 <div class="o-container o-container--spacing-xl">
 </div>
 ```
+ 
+<a href="https://codepen.io/wispcss/pen/QwGawaQ" class="wisp-codepen-link">Demo on CodePen</a>

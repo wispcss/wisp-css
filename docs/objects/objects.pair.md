@@ -10,7 +10,9 @@ Arranges items into two-column key–value pairs with equal row spacing.
     <input>
 </form>
 ```
-
+ 
+<a href="https://codepen.io/wispcss/pen/jEVYEpK" class="wisp-codepen-link">Demo on CodePen</a>
+ 
 ## Modifiers
 
 ### Gap
@@ -29,3 +31,6 @@ Sets the gap on the inline axis.
     <input>
 </form>
 ```
+ 
+<a href="https://codepen.io/wispcss/pen/bNBaNma" class="wisp-codepen-link">Demo on CodePen</a>
+ 

@@ -22,6 +22,6 @@ features:
   - title: Zero configuration
     details: No settings file. Sensible defaults out of the box. Define a CSS variable to override them when you're ready.
   - title: Modern CSS
-    details: Built on cascade layers, logical properties, and CSS variables. No preprocessor. No compiler. Just CSS.
+    details: Built on cascade layers, logical properties, and mobile-first design. No preprocessor. No compiler. Just CSS.
 ---
 

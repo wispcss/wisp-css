@@ -1,6 +1,6 @@
 ![Wisp CSS Logo](./images/wisp-black-logo.png)
 
-A spirited, modular, and lightweight CSS framework that's barely there.
+A spirited framework that won't haunt your life. Modular, with sensible defaults and no settings needed.
   
 ![Version](https://img.shields.io/badge/version-0.5.0-blue)
 ![License](https://img.shields.io/github/license/wispcss/wisp-css)

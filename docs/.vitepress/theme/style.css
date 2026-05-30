@@ -20,3 +20,8 @@
 	color: var(--vp-button-alt-text) !important;
     background-color: var(--vp-button-alt-hover-bg);
 }
+.VPFeature .icon {
+    display: block;
+    margin-inline: auto;
+    background-color: transparent;
+}
