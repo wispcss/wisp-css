@@ -1,12 +1,12 @@
 ![Wisp CSS Logo](./images/wisp-black-logo.png)
 
-A spirited framework that won't haunt your life. Modular, with sensible defaults and no settings needed.
+A spirited framework that won't haunt your life. 
   
 ![Version](https://img.shields.io/badge/version-0.5.0-blue)
 ![License](https://img.shields.io/github/license/wispcss/wisp-css)
 ![Size](https://img.shields.io/github/size/wispcss/wisp-css/dist/wisp.min.css)
 
-[Design Principles](./docs/getting-started/design-principles.md)
+[Design Principles](https://wispcss.github.io/getting-started/design-principles.html)
 
 ------
 
