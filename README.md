@@ -19,7 +19,7 @@ A spirited framework that won't haunt your life.
 
 ## Documentation
 
-For documentation, visit [wispcode.github.io](https://wispcss.github.io).
+For documentation, visit [wispcode.github.io](https://wispcode.github.io).
 
 ## Community
 
