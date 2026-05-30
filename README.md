@@ -2,7 +2,7 @@
 
 A spirited framework that won't haunt your life.
 
-** Features**
+**Features**
 
 - Modular. Use only what you need.
 - Extendable with cascade layers.
