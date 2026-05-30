@@ -4,7 +4,7 @@ Thanks for your interest in contributing! 🎉
 
 ## Getting Started
 
-1. **Fork** [wispcss/wisp-css](https://github.com/wispcss/wisp-css) and clone your fork.
+1. **Fork** [wispcss/wisp-css](https://github.com/wispcode/wisp-css) and clone your fork.
 2. Install dependencies (see the [README](README.md) for setup instructions).
 3. Create a branch from `main`:
    ```bash
@@ -15,7 +15,7 @@ Thanks for your interest in contributing! 🎉
 
 ## How to Contribute
 
-- **Bug fixes** — check [open issues](https://github.com/wispcss/wisp-css/issues) labeled `bug`.
+- **Bug fixes** — check [open issues](https://github.com/wispcode/wisp-css/issues) labeled `bug`.
 - **Features** — look for issues labeled `enhancement` or `good first issue`.
 - **Docs** — typos, clarity, and missing examples are always welcome.
 - **Tests** — improving coverage is never a bad idea.

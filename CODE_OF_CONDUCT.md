@@ -34,7 +34,7 @@ This Code of Conduct applies within all project spaces — including GitHub issu
 
 ## Enforcement
 
-Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by opening an issue or contacting the maintainers directly via [GitHub](https://github.com/wispcss/wisp-css). All complaints will be reviewed and investigated and will result in a response deemed necessary and appropriate to the circumstances.
+Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by opening an issue or contacting the maintainers directly via [GitHub](https://github.com/wispcode/wisp-css). All complaints will be reviewed and investigated and will result in a response deemed necessary and appropriate to the circumstances.
 
 ## Attribution
 
