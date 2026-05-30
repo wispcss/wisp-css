@@ -1,8 +1,13 @@
 ![Wisp CSS Logo](./images/wisp-black-logo.png)
 
 A spirited framework that won't haunt your life.
-<br> 
-Modular, with sensible defaults and no settings needed.
+
+** Features**
+
+- Modular. Use only what you need.
+- Extendable with cascade layers.
+- No preprocessor required.
+- No settings file. Sensible defaults via CSS variables.
 
 ![Version](https://img.shields.io/badge/version-1.0.0-blue)
 ![License](https://img.shields.io/github/license/wispcss/wisp-css)
